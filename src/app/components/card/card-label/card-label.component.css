@@ -1,0 +1,17 @@
+.card-label__container{
+    position: absolute;
+    bottom: 70px;
+    right: 0;
+}
+
+.card-label__content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #281361c8;
+    color: lightgrey;
+    font-family: 'Lucida Sans';
+    font-weight: bolder;
+    height: 20px;
+    padding: 0px 30px;
+}
