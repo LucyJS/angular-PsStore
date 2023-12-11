@@ -1,5 +1,9 @@
+
+
 # angular-PsStore
 Project created in Angular based on the Playstation Store layout.
+
+## [Click here]((https://lucyjs.github.io/angular-PsStore/) to access the final result of the Page created from the challenge!
 
 
 # Store
